@@ -2,7 +2,7 @@ const dateInput = document.getElementById('date');
 const fetchBtn = document.getElementById('fetch-btn');
 const spaceInfoDiv = document.getElementById('space-info');
 
-const API_KEY = 'AjhtScKCG40qwibMpyxIM2uzkrrwF3RiqAGT0fNS'; 
+const API_KEY = 'sC9S4S3kCs5cXdxQCWEWhXr529R96XAup1UiT7pb'; 
 
 async function fetchAPOD(date = '') {
     try {
